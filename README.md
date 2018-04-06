@@ -1,1 +1,1 @@
-One project with the dataset of House Prising from Kaggle.
+One project with the dataset of House Price from Kaggle.
